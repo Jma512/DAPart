@@ -28,7 +28,7 @@
     <br />
     <a href="https://github.com/Jma512/DAPart">查看Demo</a>
     ·
-    <a href="https://github.com/Jma512/DAPart/README.md">中文</a>
+    <a href="https://github.com/Jma512/DAPart/blob/main/README.md">中文</a>
     ·
     <a href="https://github.com/Jma512/DAPart/README_en.md">English</a>
   </p>
