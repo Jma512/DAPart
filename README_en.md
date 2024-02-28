@@ -37,7 +37,7 @@ This open source code is a real test platform built by the actual experiment in 
 
 This README.md is for developers.
 
-## 目录
+## Catalogue
 
 - [Getting started guide](#getting-started-guide)
   - [Configuration requirements before development](#major-environment-configuration-requirements-before-development)
