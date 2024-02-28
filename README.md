@@ -21,7 +21,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<h3 align="center">"完美的"README模板</h3>
+<h3 align="center">DAPart</h3>
   <p align="center">
     <a href="https://github.com/Jma512/DAPart"><strong>探索本项目的文档 »</strong></a>
     <br />
