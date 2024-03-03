@@ -130,7 +130,7 @@ DAPart
 
 ### 贡献者
 
-xxx@xxxx暂不公开
+xxx@xxxx（暂不公开）
 
 ### 版本控制
 
